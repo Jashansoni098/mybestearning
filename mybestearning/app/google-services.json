@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "632278050007",
+    "project_id": "jash-earning",
+    "storage_bucket": "jash-earning.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632278050007:android:6f07c01a2ceedfb8513c92",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632278050007-skp7i87cojhukfctoppt2o9fqou5en3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2ZfM0mAHbn8th-sQYaGDSA7F3q8GnA1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632278050007-skp7i87cojhukfctoppt2o9fqou5en3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632278050007:android:00a2e2712adab633513c92",
+        "android_client_info": {
+          "package_name": "com.example.mybestearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632278050007-9bdl8lchril6q0f9bucdqbbeaqc17lbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mybestearning",
+            "certificate_hash": "79f52550ade5b23000c2f1f17fdec10f1a4273c7"
+          }
+        },
+        {
+          "client_id": "632278050007-skp7i87cojhukfctoppt2o9fqou5en3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2ZfM0mAHbn8th-sQYaGDSA7F3q8GnA1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632278050007-skp7i87cojhukfctoppt2o9fqou5en3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
